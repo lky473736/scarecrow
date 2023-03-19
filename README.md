@@ -11,7 +11,7 @@ AlphaMech_ [SCARECROW]
 본 프로그램은 2020년 3월 말 AlphaMech_ 허수아비 프로그래밍팀 (임규연, 정찬하, 장문규, 변호석, 박재석) 이 제작하였습니다. 본 프로그램의 저작권은 AlphaMech_에게 있습니다.
 
 
-
+------------------------------------
 
 
 'Scarecrow: Field of Persistence' was produced for the convenience of students when accessing classes at the height of non-face-to-face video classes due to COVID-19. 
