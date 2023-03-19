@@ -1,6 +1,7 @@
 # scarecrow (허수아비 : 집념의 들판)
 AlphaMech_ [SCARECROW] 
 
+
 '허수아비 : 집념의 들판'은 코로나19로 인하여 비대면 화상수업이 한창일 때 수업 접속 시 학생들의 편의를 위해 제작하였습니다. 허수아비 프로그램은 아래 두 형태로 나뉘게 됩니다.
 
 1) 클릭 형태로 쉽게 수업 접속 가능한 하이퍼링크 HTML 파일
@@ -8,6 +9,10 @@ AlphaMech_ [SCARECROW]
 2번 형태는 현재 복구 중입니다. 복구 후 업로드 할 예정입니다. 
 
 본 프로그램은 2020년 3월 말 AlphaMech_ 허수아비 프로그래밍팀 (임규연, 정찬하, 장문규, 변호석, 박재석) 이 제작하였습니다. 본 프로그램의 저작권은 AlphaMech_에게 있습니다.
+
+
+
+
 
 'Scarecrow: Field of Persistence' was produced for the convenience of students when accessing classes at the height of non-face-to-face video classes due to COVID-19. 
 
