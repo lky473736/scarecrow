@@ -21,6 +21,7 @@ The Scarecrow program will be divided into two types:
 
 1) Hyperlink HTML file that can be easily accessed in the form of a click
 2) CPP file where computer processes automatically access classes when time permits
+
 Type 2 is currently being restored. It will be uploaded after recovery.
 
 This program was produced by AlphaMech_ Scarecrow Programming Team (Lim Gyu-yeon, Jung Chan-ha, Jang Moon-gyu, Byun Ho-Seok, and Park Jae-seok) at the end of March 2020. This program is copyrighted by AlphaMech_.
